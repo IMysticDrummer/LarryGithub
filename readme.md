@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker como hay pocos.
 
-**Iván García**, Git lover
+**Iván García**, Git lover & Larry Plotter Lover
+
